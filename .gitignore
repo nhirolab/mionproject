@@ -1,0 +1,17 @@
+# Node-related
+node_modules/
+remotion/node_modules/
+remotion/.cache/
+remotion/dist/
+remotion/out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Editor files
+.DS_Store
+.idea/
+.vscode/
